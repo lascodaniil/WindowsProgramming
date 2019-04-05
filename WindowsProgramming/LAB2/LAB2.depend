@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458512324 source:c:\users\eugenius\documents\repository\pw\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+
+1552394892 source:c:\users\daniil\desktop\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+
