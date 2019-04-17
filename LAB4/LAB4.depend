@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554718003 source:c:\users\daniil\desktop\lab4\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
+1554882232 source:c:\users\daniil lasco\desktop\lab4\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
